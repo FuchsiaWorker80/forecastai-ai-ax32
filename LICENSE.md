@@ -1,4 +1,4 @@
-# 
+# Automático ForecastAI baixador. Baixe e instale com multiplataforma e pronto para Docker — rápido, seguro e fácil de usar.
 
 
 
